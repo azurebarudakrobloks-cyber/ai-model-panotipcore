@@ -1,0 +1,2 @@
+# ai-model-panotipcore
+TESTING
